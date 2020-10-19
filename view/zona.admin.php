@@ -64,8 +64,6 @@ require_once '../controller/sessionController.php';
         <input type="submit" value="Insertar">
       </form>
     </div>
-  </div>
-</div>
-  
+  </div>  
 </body>
 </html>
